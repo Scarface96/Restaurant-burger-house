@@ -91,3 +91,7 @@ This project is open source and available under the MIT License.
 ---
 
 Built with ❤️ by [Scarface96](https://github.com/Scarface96)
+
+## About This Project
+
+A responsive restaurant website designed to showcase products, promotions and business information in a visually engaging customer experience. It demonstrates front-end development, responsive layouts, content presentation and small-business website design.
