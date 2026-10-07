@@ -2,6 +2,13 @@
 
 A modern restaurant website for a burger house featuring menu showcase, ordering system, and restaurant information.
 
+<p align="center">
+  <img src="docs/images/desktop.jpg" alt="Burger House homepage on desktop" width="72%">
+  &nbsp;
+  <img src="docs/images/mobile.jpg" alt="Burger House homepage on mobile" width="22%">
+</p>
+<p align="center"><sub>Desktop and mobile views</sub></p>
+
 ## 📋 Overview
 
 A professional restaurant website built with HTML and CSS showcasing a burger house menu, promoting dining experience, and providing contact information.
